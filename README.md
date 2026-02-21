@@ -20,25 +20,25 @@ Application mobile (React Native) avec navigation, écrans métier (dashboard, c
 ## Screenshots
 
 <p>
-  <img src="docs/screenshots/01-login.png" width="240" alt="Login" />
-  <img src="docs/screenshots/02-payment.png" width="240" alt="Payment" />
-  <img src="docs/screenshots/03-invoice.png" width="240" alt="Invoice" />
-  <img src="docs/screenshots/04-dashboard.png" width="240" alt="Mail & Dashboard" />
+  <img src="docs/screenshots/01-login.png" width="540" alt="Login" />
+  <img src="docs/screenshots/02-payment.png" width="540" alt="Payment" />
+  <img src="docs/screenshots/03-invoice.png" width="540" alt="Invoice" />
+  <img src="docs/screenshots/04-dashboard.png" width="540" alt="Mail & Dashboard" />
 </p>
 
 <details>
   <summary>More screenshots (WIP / extra screens)</summary>
 
   <p>
-    <img src="docs/screenshots/05-agenda.png" width="240" alt="Agenda" />
-    <img src="docs/screenshots/06-standardMenu.png" width="240" alt="Standard Menu" />
-    <img src="docs/screenshots/07-premiumMenu.png" width="240" alt="Premium Menu" />
+    <img src="docs/screenshots/05-agenda.png" width="540" alt="Agenda" />
+    <img src="docs/screenshots/06-standardMenu.png" width="540" alt="Standard Menu" />
+    <img src="docs/screenshots/07-premiumMenu.png" width="540" alt="Premium Menu" />
   </p>
 
   <p>
-    <img src="docs/screenshots/08-listesfactures.png" width="240" alt="Listes des factures" />
-    <img src="docs/screenshots/09-gestionfactures.png" width="240" alt="Gestion des factures" />
-    <img src="docs/screenshots/10-relanceManuelle.png" width="240" alt="Relance manuelle" />
+    <img src="docs/screenshots/08-listesfactures.png" width="540" alt="Listes des factures" />
+    <img src="docs/screenshots/09-gestionfactures.png" width="540" alt="Gestion des factures" />
+    <img src="docs/screenshots/10-relanceManuelle.png" width="540" alt="Relance manuelle" />
   </p>
 
 </details>
