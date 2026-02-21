@@ -19,23 +19,23 @@ Application mobile (React Native) avec navigation, écrans métier (dashboard, c
 
 ## Screenshots
 
-<p>
-  <img src="docs/screenshots/01-login.png" width="540" alt="Login" />
-  <img src="docs/screenshots/02-payment.png" width="540" alt="Payment" />
-  <img src="docs/screenshots/03-invoice.png" width="540" alt="Invoice" />
-  <img src="docs/screenshots/04-dashboard.png" width="540" alt="Mail & Dashboard" />
+<p style="margin-bottom:16px;">
+  <img src="docs/screenshots/01-login.png" width="540" alt="Login" style="margin:8px 0 8px 0;" />
+  <img src="docs/screenshots/02-payment.png" width="540" alt="Payment" style="margin:8px 0 8px 0;"  />
+  <img src="docs/screenshots/03-invoice.png" width="540" alt="Invoice" style="margin:8px 0 8px 0;" />
+  <img src="docs/screenshots/04-dashboard.png" width="540" alt="Mail & Dashboard" style="margin:8px 0 8px 0;" />
 </p>
 
 <details>
   <summary>More screenshots (WIP / extra screens)</summary>
 
-  <p>
+  <p style="margin-bottom:16px;">
     <img src="docs/screenshots/05-agenda.png" width="540" alt="Agenda" />
     <img src="docs/screenshots/06-standardMenu.png" width="540" alt="Standard Menu" />
     <img src="docs/screenshots/07-premiumMenu.png" width="540" alt="Premium Menu" />
   </p>
 
-  <p>
+  <p style="margin-bottom:16px;">
     <img src="docs/screenshots/08-listesfactures.png" width="540" alt="Listes des factures" />
     <img src="docs/screenshots/09-gestionfactures.png" width="540" alt="Gestion des factures" />
     <img src="docs/screenshots/10-relanceManuelle.png" width="540" alt="Relance manuelle" />
