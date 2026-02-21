@@ -19,24 +19,29 @@ Application mobile (React Native) avec navigation, écrans métier (dashboard, c
 
 ## Screenshots
 
-
-![Login](docs/screenshots/01-login.png)
-![Payment](docs/screenshots/02-payment.png)
-![Invoice](docs/screenshots/03-invoice.png)
-![Mail & Dashboard](docs/screenshots/04-dashboard.png)
+<p>
+  <img src="docs/screenshots/01-login.png" width="240" alt="Login" />
+  <img src="docs/screenshots/02-payment.png" width="240" alt="Payment" />
+  <img src="docs/screenshots/03-invoice.png" width="240" alt="Invoice" />
+  <img src="docs/screenshots/04-dashboard.png" width="240" alt="Mail & Dashboard" />
+</p>
 
 <details>
   <summary>More screenshots (WIP / extra screens)</summary>
 
-  ![Agenda](docs/screenshots/05-agenda.png)
-  ![Standard Menu](docs/screenshots/06-standardMenu.png)
-  ![Premium Menu](docs/screenshots/07-premiumMenu.png)
-  ![Listes des factures](docs/screenshots/08-listesfactures.png)
-  ![Gestion des factures](docs/screenshots/09-gestionfactures.png)
-  ![Relance Manuelle si nécessaire](docs/screenshots/10-relanceManuelle.png)
+  <p>
+    <img src="docs/screenshots/05-agenda.png" width="240" alt="Agenda" />
+    <img src="docs/screenshots/06-standardMenu.png" width="240" alt="Standard Menu" />
+    <img src="docs/screenshots/07-premiumMenu.png" width="240" alt="Premium Menu" />
+  </p>
+
+  <p>
+    <img src="docs/screenshots/08-listesfactures.png" width="240" alt="Listes des factures" />
+    <img src="docs/screenshots/09-gestionfactures.png" width="240" alt="Gestion des factures" />
+    <img src="docs/screenshots/10-relanceManuelle.png" width="240" alt="Relance manuelle" />
+  </p>
 
 </details>
-
 ## Getting Started
 
 ### Prerequisites
